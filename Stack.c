@@ -86,7 +86,7 @@ void show()
             printf("%d\n", inp_array[i]);
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
+
+
+
