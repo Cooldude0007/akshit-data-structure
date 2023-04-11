@@ -36,6 +36,6 @@ void main()
     {
         printf("%d ", array[i]);
     }
-    printf("ansh jamwal roll 76  g5\n");
+    printf("akshit sharma roll 79  g5\n");
 }
 
